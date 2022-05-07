@@ -34,3 +34,10 @@ Captured waveforms stored in the EEPROM can be decoded directly using the IR Clo
 To transfer the EEPROM data to the PC, use any 24LC family compatible EEPROM reader or programmer. In our presentations, we used an inexpensive CH341A based programmer to read and write the 24LC32 EEPROM.
 
 In addition to the IR Clone software, the repository also contains a sample Python script that exhibits decoding of EEPROM data.
+
+
+
+
+
+
+
