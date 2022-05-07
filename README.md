@@ -73,6 +73,14 @@ Now no need to order components separately for you PCB and get free from stress 
 3 - visit [JLCPCB.com](https://jlcpcb.com/IAT) Add the Gerber file and place the order. 
 
 
+RF Module Tips
+The range of the transmitter module itself has much to be desired so to help with this an antenna can be connected to the 433MHz module. 
+
+However, be cautious when doing this as increasing the range of the transmitter may breach local laws and regulations. 
+
+Another trick with the RF module is to create a directional receiver so that the signal is only detected by the receiver when it is directly pointed at the RF beacon.
+
+
 
 
 
